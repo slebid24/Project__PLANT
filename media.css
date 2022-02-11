@@ -1,0 +1,807 @@
+@media screen and (max-width: 1199px) {
+    
+    /* INTRO */
+    
+    .intro {
+        
+        margin-bottom: 100px;
+        
+    }
+
+    .block__title {
+        font-size: 38px;
+    }
+
+    .intro__inner {
+        height: auto;
+    }
+    
+    .intro__inner__rightside {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        
+        width: 100%;
+        order: 2;
+    }
+
+    .btn--download {
+        margin: 0 auto 20px;
+    }
+
+
+    .intro__inner__h1 {
+        text-align: center;
+
+        font-size: 52px;
+        line-height: 62px;
+
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+
+    .intro__inner__p {
+        text-align: center;
+        padding: 0 100px;
+    }
+
+    .btn--download {
+        margin-bottom: 15px;
+    }
+
+    .intro__inner__results{
+        
+        width: 500px;
+    }
+
+    .intro__inner__leftside {
+        margin: 0 auto;
+        
+        max-height: 719px;
+        width: auto;
+        position: relative;
+        top: 0;
+        left:0;
+    }
+
+    .cactus {
+        max-height: 519px;
+        width: auto;
+
+}
+
+    /* Offer */
+
+    .offer {
+        margin-bottom: 100px;
+    }
+
+
+    .offer__text {
+        font-size: 32px;
+        line-height: 45px;
+        margin-bottom: auto;
+        
+    }
+
+    .offer__photo {
+        margin-left: 14px;
+    }
+
+    /* Aboutus */
+
+    .aboutus {
+        margin-bottom: 80px;
+    }
+
+    /* Best_products */
+    .bproduct {
+        margin-bottom: 100px;
+    }
+    
+    
+    .goods__group {
+        width: 100%;
+        padding: 0 140px;
+        justify-content: center;
+    }
+
+    .goods {
+        margin: 0 15px
+    }
+
+    .first__group {
+        margin-bottom: 30px;
+        
+    }
+    
+
+    /* Rewievs */
+    .rewievs__inner__inner {
+        position: relative;
+    }
+    
+    .green__block{ 
+        position: absolute;
+        top: 239px;
+        left: 0px;
+    }
+
+    /* Subs */
+    .subcsribe {
+        margin-top: 110px;
+        margin-bottom: 100px;
+    }
+
+
+    /* Follow_Us */
+
+    .photo__block {
+        width: 75%;
+        margin: 0 auto 100px;
+    }
+
+    /* Footer */
+    .footer {
+        margin-bottom: 80px;
+    }
+    
+    .footer__container:not(:last-child) {
+        margin-right: 90px;
+    }
+}
+
+
+
+
+
+@media (max-width: 991px) {
+    
+    .block__title {
+        margin-bottom: 16px;
+        font-size: 36px;
+    }
+
+    /* Header */
+    .burger {
+        display: block;
+    }
+
+    .menu__main {
+        display: none;
+    }
+
+    /* Intro */
+    
+    .intro {
+        margin-bottom: 60px;
+    }
+
+    .intro__inner__h1 {
+        font-size: 42px;
+    }
+
+    .intro__inner__p {
+        padding: 0 30px;
+        margin-bottom: 16px;
+    }
+
+    .numeric {
+        font-size: 30px;
+    }
+    
+    .cactus {
+        max-height: 419px;
+        width: auto;
+    }
+    
+    /* Offer */
+    .offer {
+        margin-bottom: 60px;
+    }
+    
+    .offer__text {
+        font-size: 28px;
+    }
+   
+    .offer__inner {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .offer__text__link {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .offer__text {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .offer__link {
+        display: none;
+    }
+
+    .div__offer2__dub {
+        display: flex;
+    }
+
+    .offer__link--dub {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+    }
+
+    .offer__photo__block {
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .photo--one {
+        margin-left: 0px;
+    }
+
+  
+    
+    /* Aboutus */
+    .aboutus {
+        height: auto;
+        margin-bottom: 60px;
+    }
+
+    .block__description__two {
+        text-align: center;
+    }
+
+    .aboutus__pcs {
+        width: 100%;
+        height: auto;
+        order: 2;
+
+        position: relative;
+    }
+
+    .aboutus__pcs__inner {
+        width: 42%;
+        margin: 0 auto;
+    }
+
+    .aboutus__shape {
+        position: relative;
+        margin-bottom: 60px;
+    }
+
+    .tree {
+    
+        top: 8%;
+        left: 10%;
+        
+    }
+
+
+    .block__name {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    
+
+    .block__title{
+        text-align: center;
+    }
+    
+    .block__description__two {
+        margin-bottom: 15px;
+    }
+
+    .aboutus__text {
+        width: 100%;
+        order: 1;
+    }
+
+    .btn--readmore {
+        display: none;
+    }
+
+    .btnread--dub {
+        display: block;
+        order: 3;
+
+        margin: 0 auto;
+    }
+
+    
+
+    /* BestProduct */
+    .bproduct {
+        margin-bottom: 60px;
+    }
+    
+    .goods__group {
+        padding: 0 40px;
+    }
+
+    .bproduct__category {
+        margin-bottom: 30px;
+    }
+
+    .btn--view_all {
+        margin-top: 30px;
+    }
+    
+    /* Rewievs */
+    .rewievs {
+        height: auto;
+    }
+    
+    .rewievs__inner {
+        flex-wrap: wrap;
+    }
+
+    .green__block {
+        display: none;
+    }
+
+    .grblock--dub {
+        display: block;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 78%;
+        margin: 0 auto;
+    }
+
+    .client__rew {
+        max-width: 500px;
+        margin: 20px auto 0px;
+    }
+
+    .text__of__rew {
+        padding: 0px;
+        margin: 10px auto 12px;
+    }
+
+
+    /* CTA */
+   
+   .subcsribe {
+       margin-top: 80px;
+       margin-bottom: 60px;
+   }
+   
+    .container__inner {
+        height: auto;
+    }
+
+
+    .container__innersub {
+        display: flex;
+        justify-content: center;
+    
+        padding: 30px 50px;
+    }
+
+    .cta__text {
+        text-align: center;
+    }
+    
+    .cta__block {
+         position: relative;
+         align-items:center;
+         
+    }
+    .cta__photo {
+        display: none;
+    }
+
+    /* Follow US */
+    .follow_us {
+        margin-bottom: 20px;
+    }
+    
+    .photo__block {
+        width: 95%;
+        margin-bottom: 60px;
+    }
+
+    /* Footer */
+    .footer {
+        margin-bottom: 40px;
+    }
+    
+    .block__left {
+        width: 100%;
+        margin: 0 auto;
+        order: 2;
+    }
+
+    .block__right {
+        width: 100%;
+        flex-direction: column;
+        
+    }
+    .footer__container {
+        margin-bottom: 24px;
+    }
+
+
+    .footer__container:not(:last-child) {
+        margin-right: 0px;
+    }
+
+    .footer__title {
+        text-align: center;
+    }
+
+    .footer__li {
+        text-align: center;
+    }
+
+    .footer__text {
+        text-align: center;
+    }
+    
+    .footer__text {
+        justify-content: center;
+    }
+
+    .footer__title {
+        margin-bottom: 12px;
+    }
+    
+    .justify-content {
+        justify-content: center;
+    }
+
+    .social__icons {
+        justify-content: center;
+    }
+}   
+
+
+
+
+@media (max-width: 767px) {
+    
+    /* Intro */
+    .cactus {
+        max-height: 370px;
+
+    }
+
+    .intro__inner__h1 {
+        font-size: 36px;
+        line-height: 48px;
+        margin-bottom: 10px;
+    }
+    
+
+    .intro__inner__results {
+        width: 400px;
+    }
+
+    .numeric {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .numeric__desc {
+        font-size: 16px;
+        
+    }
+    
+    /* Offer */
+    .offer__text {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+
+    .offer__photo__block {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        
+    }
+
+    .offer_plant {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+        margin-bottom: 10px;
+    }
+
+    .offer__photo {
+        margin-left: 0px;
+
+        width:190px;
+        height: auto;
+        
+        
+    }
+
+    /* Aboutus */
+
+    .aboutus__pcs {
+        
+    }
+
+    .aboutus__pcs__inner {
+        min-width: 220px;
+    }
+
+    .block__name {
+        font-size: 16px;
+        
+    }
+
+    .block__title {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 12px;
+    }
+
+    .aboutus__shape {
+        min-width: 220px;
+        min-height: auto;
+        
+    }
+
+    .tree {
+        min-width: 220px;
+        min-height: auto;
+
+        
+    }
+
+    /* Best_product */
+
+    .goods__group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .bproduct__goods__inner {
+        width: 100%;
+    }
+
+    .bproduct__goods__inner:not(:last-child) {
+        margin-bottom: 15px;
+    }
+
+    
+
+    .goods {
+        margin: 0 auto;
+        width: 240px;
+        height: 245px;
+    }
+    .goods__img{
+        height: 130px;
+    }
+
+    .goods__name {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .btn--view_all {
+        margin-top: 15px;
+    }
+
+    /* Rew */
+
+    .rewievs__inner__inner {
+        width: 100%;
+    }
+
+    .rewievs__photo {
+        margin: 0 auto;
+        width: 85%;
+    }
+
+    .rewievs__sup {
+        text-align: center;
+    }
+
+    .rewievs__photo{
+        z-index: 2;
+        position: relative;
+    }
+
+    .grblock--dub {
+        top: -6px;
+        z-index: 1;
+
+        width: 85%;
+        height: auto;
+    }
+
+    .client__rew {
+        padding: 0 10px;
+    }
+    
+
+    .text__of__rew {
+        padding: 10px 10px 10px;
+    }
+    
+    /* CTA */
+
+    .cta__text {
+        margin-bottom: 10px;
+    }
+
+    .submit__form {
+        width: 380px;
+        margin: 0 auto;
+    }
+
+    .follow_us_img_block {
+        width: 170px;
+    }
+}
+
+
+
+
+
+@media (max-width: 480px) {
+    /* Intro */
+    .intro {
+        margin-bottom: 40px;
+    }
+
+    .cactus {
+        max-height: 290px;
+    }
+
+    .intro__inner__h1 {
+        font-size: 32px;
+        line-height: 44px;
+    }
+
+    .intro__inner__p {
+        padding: 0 5px
+    }
+
+    .intro__inner__results {
+        width: 290px;
+    }
+
+    .intro__inner__results__block {
+        
+    }
+
+    .numeric {
+        font-size: 24px;
+        margin-bottom: 0px;
+
+        text-align: center;
+    }
+
+    /* Offer */
+    .offer__photo {
+        width: 180px;
+    }
+
+    .offer__text {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+
+    /* Aboutus */
+    .aboutus{
+        margin-bottom: 40px;
+    }
+    .block__title {
+        font-size: 28px;
+        line-height:36px;
+    }
+
+    .aboutus__inner {
+        padding: 0px;
+    }
+
+    .aboutus__pcs__inner {
+        margin-bottom: -20px;
+    }
+
+    /* Best product */
+
+    .bproduct {
+        margin-bottom: 40px;
+    }
+
+    .goods {
+        width: 220px;
+        height: 225px;
+    }
+
+    .goods__img {
+        height: 120px;
+    }
+
+    /* Rew */
+
+    .rewievs__photo {
+        width: 100%;
+    }
+
+    .grblock--dub {
+        width: 100%;
+    }
+
+
+
+    .client__rew {
+        justify-content: center;
+    }
+
+    .quotes {
+        display: none;
+    }
+    .client__info {
+        flex-direction: column;
+        
+    }
+
+    .client__desc {
+        margin-left: 0px;
+        
+    }
+
+    .client__photo {
+        margin: 0 auto;
+    }
+    
+    
+
+    .text__of__rew {
+        margin: 0px;
+        text-align: center;
+    }
+
+    .client__position {
+        text-align: center;
+    }
+
+    .switcher__photo {
+        justify-content: center;
+    }
+
+    /* CTA */
+    .container__innersub {
+        padding: 20px 10px 70px 10px;
+    }
+    
+    .submit__form {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .submit__form {
+        width: 250px;
+    }
+
+    .btn--submit {
+        margin: 15px auto 0px;
+    }
+
+    /* Footer */
+    .footer__title {
+        font-size: 20px;
+    }
+
+    .footer__li {
+        margin-bottom: 10px;
+    }
+    
+}
